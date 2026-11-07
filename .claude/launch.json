@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "piramidevr", "runtimeExecutable": "python", "runtimeArgs": ["serve.py", "--port", "8875"], "port": 8875 }
+  ]
+}
